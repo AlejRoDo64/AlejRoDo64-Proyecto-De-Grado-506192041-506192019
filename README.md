@@ -1,14 +1,3 @@
-# AlejRoDo64-Proyecto-De-Grado-506192041-506192019
-Proyecto de grado videojuego historico como apoyo a la educación, que enseña historia y lectura critica.
-Nombre del proyecto: "Desarrollo de un Prototipo de Videojuego Histórico sobre la Independencia de las Colonias Latinoamericanas de España.
-Estos son los Scripts que dan funcionamiento al videojuego
-CanvasScripts: Codigo Enfocado a la funcionalidad de los canvas que aparecen en el juego Menus, dialogos de inicio, menu de perder y de ganar.
-JugabilidadScripts: Por dentro contiene 3 subcarpetas en donde estan las funcionalidades del jugador, los NPC, las balas de las dos entidades en carpetas serian:
-  PlayerScripts: Funcionalidades como moverse, vista de la camara, tipos de vista con o sin arma, activacion de objetos, reconocimiento de partes del cuerpo, codiciones de victoria o perder y objetos.
-  NPCScrips: Contiene las funcionalidades tanto del los NPCS Patriotas como de los NPC enemigos que son los realistas, donde se abarca la inteligencia artificial basada en NavMesh, movimiento, alcance de ataque animaciones, condiciones de vida del NPC e identificacion de partes del cuerpo.
-  BulletScripts: Contiene los scripts del Jugador y del NPC.
-NivelesScripts: En esa carpeta estan los scripts utilisados para Seleccionar nivel, salir del nivel y el script para que al completar un nivel y hacer un cambio bajo la condicion de ganar dentro de unity permita desbloquear los ni veles del mapa de seleccion de niveles.
-"
 # AlejRoDo64 - Proyecto de Grado - 506192041 - 506192019
 
 Este proyecto de grado se centra en el desarrollo de un videojuego histórico diseñado para respaldar la educación al enseñar historia y fomentar la lectura crítica. El título del proyecto es "Desarrollo de un Prototipo de Videojuego Histórico sobre la Independencia de las Colonias Latinoamericanas de España".
